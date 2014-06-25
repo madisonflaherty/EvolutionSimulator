@@ -1,0 +1,5 @@
+Author: Madison Flaherty
+Date: June 2014
+
+Evolution is a simple "evolution" simulator. As of now (June 2014) I intend it to be relatively small and incorporate only a few basic traits (height or speed) that can change according to different stimuli (such as food shortage and over population). 
+It currently only spawns two "animals" which then attempt to mate and produce new offspring each "year".

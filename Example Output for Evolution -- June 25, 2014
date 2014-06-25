@@ -1,0 +1,355 @@
+Example Output for Evolution -- June 25, 2014
+START OF YEAR 0
+--------------------------------------
+Animal 1 has eaten an apple.
+There were 22 apples that it could reach.
+There were exactly 24 on the tree.
+Animal 2 has eaten an apple.
+There were 21 apples that it could reach.
+There were exactly 23 on the tree.
+Animal 1 mated with Animal 2 and had Animal 3
+    Animal 1 is 8 feet tall and is a 1
+    Animal 2 is 4 feet tall and is a 1
+    Animal 3 is 4 feet tall and is a 1
+START OF YEAR 1
+--------------------------------------
+Animal 3 has eaten an apple.
+There were 20 apples that it could reach.
+There were exactly 22 on the tree.
+Animal 2 has eaten an apple.
+There were 19 apples that it could reach.
+There were exactly 21 on the tree.
+Animal 1 has eaten an apple.
+There were 18 apples that it could reach.
+There were exactly 20 on the tree.
+Animal 3 mated with Animal 2 and had Animal 4
+    Animal 1 is 8 feet tall and is a 1
+    Animal 2 is 4 feet tall and is a 1
+    Animal 3 is 4 feet tall and is a 1
+    Animal 4 is 4 feet tall and is a 1
+START OF YEAR 2
+--------------------------------------
+Animal 3 has eaten an apple.
+There were 17 apples that it could reach.
+There were exactly 22 on the tree.
+Animal 2 has eaten an apple.
+There were 16 apples that it could reach.
+There were exactly 21 on the tree.
+Animal 4 has eaten an apple.
+There were 15 apples that it could reach.
+There were exactly 20 on the tree.
+Animal 1 has eaten an apple.
+There were 17 apples that it could reach.
+There were exactly 19 on the tree.
+Animal 3 mated with Animal 2 and had Animal 5
+Animal 4 mated with Animal 1 and had Animal 6
+    Animal 1 is 8 feet tall and is a 1
+    Animal 2 is 4 feet tall and is a 1
+    Animal 3 is 4 feet tall and is a 1
+    Animal 4 is 4 feet tall and is a 1
+    Animal 5 is 4 feet tall and is a 1
+    Animal 6 is 5 feet tall and is a 2
+START OF YEAR 3
+--------------------------------------
+Animal 4 has eaten an apple.
+There were 16 apples that it could reach.
+There were exactly 21 on the tree.
+Animal 5 has eaten an apple.
+There were 15 apples that it could reach.
+There were exactly 20 on the tree.
+Animal 1 has eaten an apple.
+There were 17 apples that it could reach.
+There were exactly 19 on the tree.
+Animal 2 has eaten an apple.
+There were 13 apples that it could reach.
+There were exactly 18 on the tree.
+Animal 6 has eaten an apple.
+There were 15 apples that it could reach.
+There were exactly 17 on the tree.
+Animal 3 has eaten an apple.
+There were 11 apples that it could reach.
+There were exactly 16 on the tree.
+Animal 4 mated with Animal 5 and had Animal 7
+Animal 1 mated with Animal 2 and had Animal 8
+Animal 6 mated with Animal 3 and had Animal 9
+    Animal 1 is 8 feet tall and is a 1
+    Animal 2 is 4 feet tall and is a 1
+    Animal 3 is 4 feet tall and is a 1
+    Animal 4 is 4 feet tall and is a 1
+    Animal 5 is 4 feet tall and is a 1
+    Animal 6 is 5 feet tall and is a 2
+    Animal 7 is 4 feet tall and is a 0
+    Animal 8 is 5 feet tall and is a 1
+    Animal 9 is 4 feet tall and is a 1
+START OF YEAR 4
+--------------------------------------
+Animal 2 has eaten an apple.
+There were 10 apples that it could reach.
+There were exactly 17 on the tree.
+Animal 5 has eaten an apple.
+There were 9 apples that it could reach.
+There were exactly 16 on the tree.
+Animal 3 has eaten an apple.
+There were 8 apples that it could reach.
+There were exactly 15 on the tree.
+Animal 6 has eaten an apple.
+There were 10 apples that it could reach.
+There were exactly 14 on the tree.
+Animal 7 has eaten an apple.
+There were 6 apples that it could reach.
+There were exactly 13 on the tree.
+Animal 1 has eaten an apple.
+There were 10 apples that it could reach.
+There were exactly 12 on the tree.
+Animal 9 has eaten an apple.
+There were 4 apples that it could reach.
+There were exactly 11 on the tree.
+Animal 8 has eaten an apple.
+There were 6 apples that it could reach.
+There were exactly 10 on the tree.
+Animal 4 has eaten an apple.
+There were 3 apples that it could reach.
+There were exactly 9 on the tree.
+Animal 2 mated with Animal 5 and had Animal 10
+Animal 3 mated with Animal 6 and had Animal 11
+Animal 7 mated with Animal 1 and had Animal 12
+Animal 9 mated with Animal 8 and had Animal 13
+    Animal 1 is 8 feet tall and is a 1
+    Animal 2 is 4 feet tall and is a 1
+    Animal 3 is 4 feet tall and is a 1
+    Animal 4 is 4 feet tall and is a 1
+    Animal 5 is 4 feet tall and is a 1
+    Animal 6 is 5 feet tall and is a 2
+    Animal 7 is 4 feet tall and is a 0
+    Animal 8 is 5 feet tall and is a 1
+    Animal 9 is 4 feet tall and is a 1
+    Animal 10 is 4 feet tall and is a 1
+    Animal 11 is 4 feet tall and is a 1
+    Animal 12 is 10 feet tall and is a 0
+    Animal 13 is 4 feet tall and is a 1
+START OF YEAR 5
+--------------------------------------
+Animal 9 has eaten an apple.
+There were 6 apples that it could reach.
+There were exactly 12 on the tree.
+Animal 3 has eaten an apple.
+There were 5 apples that it could reach.
+There were exactly 11 on the tree.
+Animal 11 has eaten an apple.
+There were 4 apples that it could reach.
+There were exactly 10 on the tree.
+Animal 1 has eaten an apple.
+There were 7 apples that it could reach.
+There were exactly 9 on the tree.
+Animal 10 has eaten an apple.
+There were 3 apples that it could reach.
+There were exactly 8 on the tree.
+Animal 13 has eaten an apple.
+There were 2 apples that it could reach.
+There were exactly 7 on the tree.
+Animal 8 has eaten an apple.
+There were 2 apples that it could reach.
+There were exactly 6 on the tree.
+Animal 4 has eaten an apple.
+There were 1 apples that it could reach.
+There were exactly 5 on the tree.
+xxxxxxxx   Animal 2 has died of starvation.  xxxxxxxxx
+There were 0 apples it could have eaten though
+xxxxxxxx   Animal 6 has died of starvation.  xxxxxxxxx
+There were 0 apples it could have eaten though
+xxxxxxxx   Animal 5 has died of starvation.  xxxxxxxxx
+There were 0 apples it could have eaten though
+xxxxxxxx   Animal 7 has died of starvation.  xxxxxxxxx
+There were 0 apples it could have eaten though
+Animal 12 has eaten an apple.
+There were 2 apples that it could reach.
+There were exactly 4 on the tree.
+Animal 9 mated with Animal 3 and had Animal 14
+Animal 11 mated with Animal 1 and had Animal 15
+Animal 10 mated with Animal 13 and had Animal 16
+Animal 8 mated with Animal 4 and had Animal 17
+    Animal 1 is 8 feet tall and is a 1
+    Animal 3 is 4 feet tall and is a 1
+    Animal 4 is 4 feet tall and is a 1
+    Animal 8 is 5 feet tall and is a 1
+    Animal 9 is 4 feet tall and is a 1
+    Animal 10 is 4 feet tall and is a 1
+    Animal 11 is 4 feet tall and is a 1
+    Animal 12 is 10 feet tall and is a 0
+    Animal 13 is 4 feet tall and is a 1
+    Animal 14 is 4 feet tall and is a 0
+    Animal 15 is 3 feet tall and is a 2
+    Animal 16 is 4 feet tall and is a 1
+    Animal 17 is 4 feet tall and is a 1
+START OF YEAR 6
+--------------------------------------
+xxxxxxxx   Animal 13 has died of starvation.  xxxxxxxxx
+There were 0 apples it could have eaten though
+xxxxxxxx   Animal 4 has died of starvation.  xxxxxxxxx
+There were 0 apples it could have eaten though
+xxxxxxxx   Animal 9 has died of starvation.  xxxxxxxxx
+There were 0 apples it could have eaten though
+xxxxxxxx   Animal 15 has died of starvation.  xxxxxxxxx
+There were 0 apples it could have eaten though
+xxxxxxxx   Animal 14 has died of starvation.  xxxxxxxxx
+There were 0 apples it could have eaten though
+xxxxxxxx   Animal 3 has died of starvation.  xxxxxxxxx
+There were 0 apples it could have eaten though
+xxxxxxxx   Animal 8 has died of starvation.  xxxxxxxxx
+There were 0 apples it could have eaten though
+xxxxxxxx   Animal 16 has died of starvation.  xxxxxxxxx
+There were 0 apples it could have eaten though
+xxxxxxxx   Animal 10 has died of starvation.  xxxxxxxxx
+There were 0 apples it could have eaten though
+Animal 1 has eaten an apple.
+There were 1 apples that it could reach.
+There were exactly 7 on the tree.
+xxxxxxxx   Animal 17 has died of starvation.  xxxxxxxxx
+There were 0 apples it could have eaten though
+Animal 12 has eaten an apple.
+There were 4 apples that it could reach.
+There were exactly 6 on the tree.
+xxxxxxxx   Animal 11 has died of starvation.  xxxxxxxxx
+There were 0 apples it could have eaten though
+Animal 1 mated with Animal 12 and had Animal 18
+    Animal 1 is 8 feet tall and is a 1
+    Animal 12 is 10 feet tall and is a 0
+    Animal 18 is 8 feet tall and is a 1
+START OF YEAR 7
+--------------------------------------
+Animal 12 has eaten an apple.
+There were 4 apples that it could reach.
+There were exactly 6 on the tree.
+Animal 18 has eaten an apple.
+There were 1 apples that it could reach.
+There were exactly 5 on the tree.
+xxxxxxxx   Animal 1 has died of starvation.  xxxxxxxxx
+There were 0 apples it could have eaten though
+Animal 12 mated with Animal 18 and had Animal 19
+    Animal 12 is 10 feet tall and is a 0
+    Animal 18 is 8 feet tall and is a 1
+    Animal 19 is 11 feet tall and is a 0
+START OF YEAR 8
+--------------------------------------
+Animal 19 has eaten an apple.
+There were 5 apples that it could reach.
+There were exactly 4 on the tree.
+Animal 12 has eaten an apple.
+There were 2 apples that it could reach.
+There were exactly 3 on the tree.
+xxxxxxxx   Animal 18 has died of starvation.  xxxxxxxxx
+There were 0 apples it could have eaten though
+Animal 19 mated with Animal 12 and had Animal 20
+    Animal 12 is 10 feet tall and is a 0
+    Animal 19 is 11 feet tall and is a 0
+    Animal 20 is 11 feet tall and is a 0
+START OF YEAR 9
+--------------------------------------
+Animal 12 has eaten an apple.
+There were 2 apples that it could reach.
+There were exactly 3 on the tree.
+Animal 19 has eaten an apple.
+There were 3 apples that it could reach.
+There were exactly 2 on the tree.
+Animal 20 has eaten an apple.
+There were 2 apples that it could reach.
+There were exactly 1 on the tree.
+Animal 12 mated with Animal 19 and had Animal 21
+    Animal 12 is 10 feet tall and is a 0
+    Animal 19 is 11 feet tall and is a 0
+    Animal 20 is 11 feet tall and is a 0
+    Animal 21 is 12 feet tall and is a 0
+START OF YEAR 10
+--------------------------------------
+Animal 12 has eaten an apple.
+There were 5 apples that it could reach.
+There were exactly 4 on the tree.
+Animal 19 has eaten an apple.
+There were 4 apples that it could reach.
+There were exactly 3 on the tree.
+Animal 20 has eaten an apple.
+There were 3 apples that it could reach.
+There were exactly 2 on the tree.
+Animal 21 has eaten an apple.
+There were 2 apples that it could reach.
+There were exactly 1 on the tree.
+Animal 12 mated with Animal 19 and had Animal 22
+Animal 20 mated with Animal 21 and had Animal 23
+    Animal 12 is 10 feet tall and is a 0
+    Animal 19 is 11 feet tall and is a 0
+    Animal 20 is 11 feet tall and is a 0
+    Animal 21 is 12 feet tall and is a 0
+    Animal 22 is 12 feet tall and is a 0
+    Animal 23 is 12 feet tall and is a 0
+START OF YEAR 11
+--------------------------------------
+Animal 23 has eaten an apple.
+There were 3 apples that it could reach.
+There were exactly 2 on the tree.
+Animal 20 has eaten an apple.
+There were 2 apples that it could reach.
+There were exactly 1 on the tree.
+Animal 22 has eaten an apple.
+There were 1 apples that it could reach.
+There were exactly 0 on the tree.
+xxxxxxxx   Animal 19 has died of starvation.  xxxxxxxxx
+There were 0 apples it could have eaten though
+xxxxxxxx   Animal 12 has died of starvation.  xxxxxxxxx
+There were 0 apples it could have eaten though
+xxxxxxxx   Animal 21 has died of starvation.  xxxxxxxxx
+There were 0 apples it could have eaten though
+Animal 23 mated with Animal 20 and had Animal 24
+    Animal 20 is 11 feet tall and is a 0
+    Animal 22 is 12 feet tall and is a 0
+    Animal 23 is 12 feet tall and is a 0
+    Animal 24 is 12 feet tall and is a 0
+START OF YEAR 12
+--------------------------------------
+Animal 22 has eaten an apple.
+There were 4 apples that it could reach.
+There were exactly 3 on the tree.
+Animal 23 has eaten an apple.
+There were 3 apples that it could reach.
+There were exactly 2 on the tree.
+Animal 24 has eaten an apple.
+There were 2 apples that it could reach.
+There were exactly 1 on the tree.
+Animal 20 has eaten an apple.
+There were 1 apples that it could reach.
+There were exactly 0 on the tree.
+Animal 22 mated with Animal 23 and had Animal 25
+Animal 24 mated with Animal 20 and had Animal 26
+    Animal 20 is 11 feet tall and is a 0
+    Animal 22 is 12 feet tall and is a 0
+    Animal 23 is 12 feet tall and is a 0
+    Animal 24 is 12 feet tall and is a 0
+    Animal 25 is 12 feet tall and is a 0
+    Animal 26 is 12 feet tall and is a 0
+START OF YEAR 13
+--------------------------------------
+xxxxxxxx   Animal 22 has died of starvation.  xxxxxxxxx
+There were 0 apples it could have eaten though
+xxxxxxxx   Animal 26 has died of starvation.  xxxxxxxxx
+There were 0 apples it could have eaten though
+xxxxxxxx   Animal 23 has died of starvation.  xxxxxxxxx
+There were 0 apples it could have eaten though
+xxxxxxxx   Animal 25 has died of starvation.  xxxxxxxxx
+There were 0 apples it could have eaten though
+xxxxxxxx   Animal 24 has died of starvation.  xxxxxxxxx
+There were 0 apples it could have eaten though
+xxxxxxxx   Animal 20 has died of starvation.  xxxxxxxxx
+There were 0 apples it could have eaten though
+START OF YEAR 14
+--------------------------------------
+START OF YEAR 15
+--------------------------------------
+START OF YEAR 16
+--------------------------------------
+START OF YEAR 17
+--------------------------------------
+START OF YEAR 18
+--------------------------------------
+START OF YEAR 19
+--------------------------------------
+
+Process finished with exit code 0
